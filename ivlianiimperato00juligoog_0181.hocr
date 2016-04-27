@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./ivlianiimperato00juligoog_0181.png"; bbox 0 0 3192 4906; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 449 1744 1236 1846">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 449 1744 1236 1846">
+     <span class='ocr_line' id='line_1_1' title="bbox 449 1744 1236 1846; baseline 0 -4"><span class='ocrx_word' id='word_1_1' title='bbox 449 1747 718 1846; x_wconf 85' lang='lat' dir='ltr'><strong>IULIANI</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 756 1744 1236 1844; x_wconf 81' lang='lat' dir='ltr'><strong>IMPERATORIS</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 749 2026 941 2081">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 749 2026 941 2081">
+     <span class='ocr_line' id='line_1_2' title="bbox 749 2026 941 2081; baseline 0 -1"><span class='ocrx_word' id='word_1_3' title='bbox 749 2026 941 2081; x_wconf 80' lang='lat' dir='ltr'><strong>LIBRORUII</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 465 2278 1233 2379">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 465 2278 1233 2379">
+     <span class='ocr_line' id='line_1_3' title="bbox 465 2278 1233 2379; baseline -0.003 -1"><span class='ocrx_word' id='word_1_4' title='bbox 465 2281 745 2379; x_wconf 74' lang='lat' dir='ltr'><strong>CONTRA</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 778 2278 1233 2378; x_wconf 79' lang='lat' dir='ltr'><strong>OHRISTIANOS</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 686 2723 1001 2784">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 686 2723 1001 2784">
+     <span class='ocr_line' id='line_1_4' title="bbox 686 2723 1001 2784; baseline -0.003 -14"><span class='ocrx_word' id='word_1_6' title='bbox 686 2726 707 2784; x_wconf 83' lang='lat' dir='ltr'>Q</span> <span class='ocrx_word' id='word_1_7' title='bbox 710 2723 1001 2771; x_wconf 68' lang='lat' dir='ltr'>UUUUUUUUUUUU</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 1600 4906">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 1600 4906">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1600 4906; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 0 0 1600 4906; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
